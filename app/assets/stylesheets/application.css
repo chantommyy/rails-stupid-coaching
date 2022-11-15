@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+  color: rgb(0, 255, 251);
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+}
+
+p{
+  color: bisque;
+  text-align: center;
+  justify-content: center;
+
+}
+
+form{
+  text-align: center;
+  justify-content: center;
+}
+
+.card {
+  text-align: center;
+  justify-content: center;
+}
